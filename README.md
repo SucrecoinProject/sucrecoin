@@ -12,7 +12,7 @@ SucreCoin is an open source crypto-currency focused on fast transactions with lo
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>21,000,000 XSR</td></tr>
-<tr><td>Premine</td><td>12,000,000 XSR</td></tr>
+<tr><td>Premine</td><td>0 XSR</td></tr>
 </table>
 
 ### Reward Distribution
@@ -21,13 +21,4 @@ SucreCoin is an open source crypto-currency focused on fast transactions with lo
 <th colspan=4>XSR Premine</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
 <tr><td>1-2</td><td>21,000,000 XSR</td><td>Initial Pre-mine</td></tr>
-</table>
-
-### PoS Rewards Breakdown
-
-<table>
-<th>Year</th><th>Block Height</th><th>Total Reward</th><th>PoS Reward</th><th>Masternode Reward</th>
-<tr><td>1-2</td><td>3-1051200</td><td>6 XSR</td><td>2 XSR</td><td>4 XSR</td></tr>
-<tr><td>3-4</td><td>1051201-2102400</td><td>3 XSR</td><td>1 XSR</td><td>2 XSR</td></tr>
-<tr><td>5+</td><td>2102401+</td><td>0 XSR</td><td>0 XSR</td><td>0 XSR</td></tr>
 </table>
