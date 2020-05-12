@@ -1,0 +1,1 @@
+qt/qt_libbitcoinqt_a-qrc_sucrecoin_locale.o: qt/qrc_sucrecoin_locale.cpp

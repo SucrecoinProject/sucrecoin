@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XSR
+Comment=XSR P2P Cryptocurrency
+Comment[fr]=XSR, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=XSR, eşten eşe kriptografik sanal para birimi
+Exec=sucrecoin-qt %u
+Terminal=false
+Type=Application
+Icon=sucrecoin128
+MimeType=x-scheme-handler/sucrecoin;
+Categories=Office;Finance;

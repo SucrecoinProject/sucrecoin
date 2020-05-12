@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/sucrecoin_bg.qm</file>
+        <file alias="ca">locale/sucrecoin_ca.qm</file>
+        <file alias="cs">locale/sucrecoin_cs.qm</file>
+        <file alias="da">locale/sucrecoin_da.qm</file>
+        <file alias="de">locale/sucrecoin_de.qm</file>
+        <file alias="en">locale/sucrecoin_en.qm</file>
+        <file alias="en_US">locale/sucrecoin_en_US.qm</file>
+        <file alias="eo">locale/sucrecoin_eo.qm</file>
+        <file alias="es">locale/sucrecoin_es.qm</file>
+        <file alias="es_ES">locale/sucrecoin_es_ES.qm</file>
+        <file alias="fi">locale/sucrecoin_fi.qm</file>
+        <file alias="fr_FR">locale/sucrecoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/sucrecoin_hi_IN.qm</file>
+        <file alias="hr">locale/sucrecoin_hr.qm</file>
+        <file alias="hr_HR">locale/sucrecoin_hr_HR.qm</file>
+        <file alias="it">locale/sucrecoin_it.qm</file>
+        <file alias="ja">locale/sucrecoin_ja.qm</file>
+        <file alias="ko_KR">locale/sucrecoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/sucrecoin_lt_LT.qm</file>
+        <file alias="nl">locale/sucrecoin_nl.qm</file>
+        <file alias="pl">locale/sucrecoin_pl.qm</file>
+        <file alias="pt">locale/sucrecoin_pt.qm</file>
+        <file alias="pt_BR">locale/sucrecoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/sucrecoin_ro_RO.qm</file>
+        <file alias="ru">locale/sucrecoin_ru.qm</file>
+        <file alias="sk">locale/sucrecoin_sk.qm</file>
+        <file alias="sv">locale/sucrecoin_sv.qm</file>
+        <file alias="tr">locale/sucrecoin_tr.qm</file>
+        <file alias="uk">locale/sucrecoin_uk.qm</file>
+        <file alias="vi">locale/sucrecoin_vi.qm</file>
+        <file alias="zh_CN">locale/sucrecoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/sucrecoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
