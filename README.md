@@ -20,5 +20,5 @@ SucreCoin is an open source crypto-currency focused on fast transactions with lo
 <table>
 <th colspan=4>XSR Premine</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1-2</td><td>21,000,000 XSR</td><td>Initial Pre-mine</td></tr>
+<tr><td>1-2</td><td>21,000,000 XSR</td><td>8</td></tr>
 </table>
