@@ -8,10 +8,12 @@ SucreCoin is an open source crypto-currency focused on fast transactions with lo
 
 ### Coin Specs
 <table>
-<tr><td>Algo</td><td>Quark</td></tr>
+  
+<tr><td>Change of X16r for Algoritmo  Quark</td></tr>
+
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>21,000,000 XSR</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>21,212,444 XSR</td></tr>
 <tr><td>Premine</td><td>0 XSR</td></tr>
 </table>
 
@@ -22,3 +24,10 @@ SucreCoin is an open source crypto-currency focused on fast transactions with lo
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
 <tr><td>1-2</td><td>21,000,000 XSR</td><td>8</td></tr>
 </table>
+
+## Coin restart 
+
+After compiling initialize your daemon
+
+sucrecoind --salvagewallet
+
