@@ -1508,17 +1508,26 @@ double ConvertBitsToDouble(unsigned int nBits)
     return dDiff;
 }
 
-
 int64_t GetBlockValue(int nHeight)
 {
+    if (Params().NetworkID() == CBaseChainParams::TESTNET) {
+        if (nHeight < 200 && nHeight > 0)
+            return 250000 * COIN;
+    }
+
     int64_t nSubsidy = 0;
+
     if (nHeight <= 1000 && nHeight >= 0) {
         nSubsidy = 6000 * COIN;
-    } else {
+    } else if (nHeight <= 490000 && nHeight >= 1001) {
         nSubsidy = 8 * COIN;
+    } else {
+        nSubsidy = 4 * COIN;
     }
+
     return nSubsidy;
 }
+
 
 int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCount)
 {
